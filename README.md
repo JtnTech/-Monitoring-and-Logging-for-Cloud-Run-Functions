@@ -18,7 +18,7 @@ curl -LO https://raw.githubusercontent.com/JtnTech/-Monitoring-and-Logging-for-C
 sudo chmod +x jtntech.sh
 ./jtntech.sh
 ```
-## 📜 Originak Full Deployment Script (**jtntech.sh**)
+## 📜 Original Full Deployment Script (**jtntech.sh**)
 > 📋 **Tip:** Click the **Copy** button on the code block below and paste it directly into your Cloud Shell or terminal.
 ```bash
 #!/bin/bash
