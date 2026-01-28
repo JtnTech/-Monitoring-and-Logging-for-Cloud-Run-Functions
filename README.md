@@ -1,14 +1,25 @@
 
 Welcome to **JtnTech GitHub** 👋  
-## -Monitoring-and-Logging-for-Cloud-Run-Functions
 
-## ⚡ One-Line Quick Install & Run
+## 📁 Repository Structure
 
-```bash
+```text
+.
+├── jtntech.sh   # Original deployment script
+├── run.sh       # CLI wrapper / final execution script
+└── README.md    # Project documentation
 
 ```
 
-**jtntech.sh**
+## ⚡ One-Line Quick Install & Run
+**run.sh**
+```bash
+curl -LO https://raw.githubusercontent.com/JtnTech/-Monitoring-and-Logging-for-Cloud-Run-Functions/refs/heads/main/jtntech.sh
+sudo chmod +x jtntech.sh
+./jtntech.sh
+```
+## 📜 Originak Full Deployment Script (**jtntech.sh**)
+> 📋 **Tip:** Click the **Copy** button on the code block below and paste it directly into your Cloud Shell or terminal.
 ```bash
 #!/bin/bash
 
@@ -90,3 +101,31 @@ echo
 echo "${CYAN}${BOLD}Happy cloud computing!${RESET}"
 
 ```
+
+
+
+<div align="center">
+
+### 🚀 Follow & Support **JtnTech**
+
+<div align="center">
+  <a href="https://github.com/JtnTech">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JatinTrails">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="28"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/firstcodejatin">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28"/>
+  </a>
+</div>
+
+<br><br>
+
+⭐ **Star this repo** if it helped you  
+📺 **Subscribe on YouTube**  
+💡 **Learn • Build • Deploy with JtnTech**
+
+</div>
+
+---
