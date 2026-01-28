@@ -45,7 +45,6 @@ export REGION=$(gcloud compute project-info describe --format="value(commonInsta
 echo "${CYAN}Selected Region: ${WHITE}${BOLD}$REGION${RESET}"
 echo
 
-```
 
 # Step 3: Vegeta Installation
 echo "${GREEN}${BOLD}▬▬▬▬▬▬▬▬ VEGETA SETUP ▬▬▬▬▬▬▬▬${RESET}"
@@ -89,3 +88,5 @@ echo "${MAGENTA}${BOLD}For more cloud engineering content, visit:${RESET}"
 echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
 echo
 echo "${CYAN}${BOLD}Happy cloud computing!${RESET}"
+
+```
