@@ -85,7 +85,7 @@ echo "${GREEN}${BOLD}          LOAD TESTING COMPLETED SUCCESSFULLY!           ${
 echo "${GREEN}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${MAGENTA}${BOLD}For more cloud engineering content, visit:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
+echo "${BLUE}${UNDERLINE}https://www.youtube.com/@JatinTrails${RESET}"
 echo
 echo "${CYAN}${BOLD}Happy cloud computing!${RESET}"
 
